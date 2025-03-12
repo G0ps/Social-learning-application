@@ -1,0 +1,10 @@
+course.h{
+    create comments class 
+    create tutor class
+    create students.h
+    complete course details in db
+    function course details go to each comment object and call show
+}
+comments.h{
+
+}

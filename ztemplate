@@ -7,8 +7,6 @@ using namespace std;
 #include "db.h"
 #include "users.h"
 
-#include "users.h"
-
 namespace placeholder{
     class placeholder2{
         public:
