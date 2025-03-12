@@ -1,0 +1,20 @@
+#ifndef placeholder_H
+#define placeholder_H
+//cin.ignore(numeric_limits<streamsize>::max(), '\n');
+#include<bits/stdc++.h>
+using namespace std;
+
+#include "db.h"
+#include "users.h"
+
+#include "users.h"
+
+namespace placeholder{
+    class placeholder2{
+        public:
+        placeholder2(){}
+    };
+}
+
+
+#endif 
